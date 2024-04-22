@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1f3d7a623ad477d857fb2e28b21a585, type: 3}
+  m_Name: Indicator
+  m_EditorClassIdentifier: 
+  <Settings>k__BackingField:
+  - Mult: 1
+    Text: fine
+    Clip: {fileID: 0}
+  - Mult: 2
+    Text: fine!
+    Clip: {fileID: 7400000, guid: 6887c61637cc6e9449d23615a036095d, type: 2}
+  - Mult: 3
+    Text: fine!!
+    Clip: {fileID: 7400000, guid: d132201273ab0d94cb095f4f42da0fae, type: 2}
+  - Mult: 4
+    Text: FIRE!!!!!!
+    Clip: {fileID: 7400000, guid: 50db4eda6b42ad94b8af391a36f359ad, type: 2}
+  - Mult: 5
+    Text: STOPED!!!!!!
+    Clip: {fileID: 7400000, guid: a3970b88ffaba8f4dbc806adac5b59f7, type: 2}
+  - Mult: 6
+    Text: "\u201CCARNAGE!!!"
+    Clip: {fileID: 7400000, guid: a3970b88ffaba8f4dbc806adac5b59f7, type: 2}
